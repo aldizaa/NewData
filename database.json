@@ -1,24 +1,3 @@
 {
-  "owner": [
-    726263
-  ],
-  "ceo": [],
-  "admin": [],
-  "moderator": [],
-  "partner": [],
-  "reseller": [],
-  "akun": [
-    {
-      "username": "aldi",
-      "password": "K82sP1xQa"
-    },
-    {
-      "username": "budi",
-      "password": "P91Ks2QaL"
-    },
-    {
-      "username": "kontol",
-      "password": "wxBILWTwVM"
-    }
-  ]
+  "akun": []
 }
