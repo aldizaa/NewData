@@ -1,5 +1,7 @@
 {
-  "owner": [726263],
+  "owner": [
+    726263
+  ],
   "ceo": [],
   "admin": [],
   "moderator": [],
@@ -13,6 +15,10 @@
     {
       "username": "budi",
       "password": "P91Ks2QaL"
+    },
+    {
+      "username": "kontol",
+      "password": "wxBILWTwVM"
     }
   ]
 }
